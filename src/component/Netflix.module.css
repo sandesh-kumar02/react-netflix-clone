@@ -1,0 +1,16 @@
+.cardContainer {
+  width: 400px;
+  border-radius: 5px;
+  border-bottom: 5px solid white;
+}
+
+.image {
+  height: 400px;
+  width: 400px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.image:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}

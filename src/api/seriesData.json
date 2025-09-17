@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Midnight Dispatch",
+    "image_url": "/image/Maharaj.webp",
+    "description": "A tense noir-thriller about a courier who discovers a package that pulls him into a city-wide conspiracy.",
+    "rating": 8.3,
+    "cast": ["Arjun Mehta", "Nisha Rao", "Vikram Joshi"],
+    "genre": ["Thriller", "Noir"],
+    "watch_url": "https://example.com/watch/midnight-dispatch"
+  },
+  {
+    "id": 2,
+    "name": "Summer at Sea",
+    "image_url": "/image/netflix-image.jpg",
+    "description": "A coming-of-age drama following three friends on their last summer together before college.",
+    "rating": 7.6,
+    "cast": ["Rhea Kapoor", "Sahil Anand", "Meera Desai"],
+    "genre": ["Drama", "Coming-of-age"],
+    "watch_url": "https://example.com/watch/summer-at-sea"
+  },
+  {
+    "id": 3,
+    "name": "Quantum Heist",
+    "image_url": "/image/The-Mother.avif",
+    "description": "A high-tech heist film where a crew attempts to steal the prototype of a quantum computer.",
+    "rating": 8.7,
+    "cast": ["Karan Vikram", "Lina Fernandez", "Dev Patel"],
+    "genre": ["Action", "Sci-Fi"],
+    "watch_url": "https://example.com/watch/quantum-heist"
+  },
+  {
+    "id": 4,
+    "name": "The Last Lantern",
+    "image_url": "https://picsum.photos/id/1035/400/600",
+    "description": "An emotional historical saga about a family keeping an ancient lighthouse alive through war and peace.",
+    "rating": 7.9,
+    "cast": ["Anita Sharma", "Rohit Sethi", "Maya Iyer"],
+    "genre": ["Historical", "Drama"],
+    "watch_url": "https://example.com/watch/the-last-lantern"
+  },
+  {
+    "id": 5,
+    "name": "Code & Karma",
+    "image_url": "https://picsum.photos/id/1042/400/600",
+    "description": "A witty tech-comedy about two rival programmers forced to collaborate on an app that might change their lives.",
+    "rating": 7.2,
+    "cast": ["Aman Grover", "Pooja Malhotra", "Siddhant Rao"],
+    "genre": ["Comedy", "Tech"],
+    "watch_url": "https://example.com/watch/code-and-karma"
+  },
+  {
+    "id": 6,
+    "name": "Orbit Nine",
+    "image_url": "https://picsum.photos/id/1056/400/600",
+    "description": "A slow-burn sci-fi about a small crew on a deep-space mission facing unexpected moral choices.",
+    "rating": 8.5,
+    "cast": ["Isha Verma", "Neil Kapoor", "Omar Sheikh"],
+    "genre": ["Sci-Fi", "Drama"],
+    "watch_url": "https://example.com/watch/orbit-nine"
+  },
+  {
+    "id": 7,
+    "name": "Under the Mango Tree",
+    "image_url": "https://picsum.photos/id/1069/400/600",
+    "description": "A cozy romance set in a small village where two childhood friends rediscover each other.",
+    "rating": 7.8,
+    "cast": ["Neelam Arora", "Rajat Khanna"],
+    "genre": ["Romance", "Slice of Life"],
+    "watch_url": "https://example.com/watch/under-the-mango-tree"
+  },
+  {
+    "id": 8,
+    "name": "Pulse of the City",
+    "image_url": "https://picsum.photos/id/1074/400/600",
+    "description": "A documentary-style series exploring the hidden subcultures and street artists of a bustling metropolis.",
+    "rating": 8.0,
+    "cast": ["Various Artists"],
+    "genre": ["Documentary"],
+    "watch_url": "https://example.com/watch/pulse-of-the-city"
+  },
+  {
+    "id": 9,
+    "name": "Neon Samurai",
+    "image_url": "https://picsum.photos/id/1084/400/600",
+    "description": "A stylish cyberpunk action film blending traditional swordplay with neon-lit futurism.",
+    "rating": 8.9,
+    "cast": ["Taro Nakamura", "Aisha Khan", "Ravi Menon"],
+    "genre": ["Action", "Cyberpunk"],
+    "watch_url": "https://example.com/watch/neon-samurai"
+  },
+  {
+    "id": 10,
+    "name": "Kitchen Confidentials",
+    "image_url": "https://picsum.photos/id/1080/400/600",
+    "description": "A fast-paced dramedy about the chaos inside a Michelin-starred restaurant kitchen.",
+    "rating": 7.4,
+    "cast": ["Simran Joshi", "Kabir Anand", "Laila D'Souza"],
+    "genre": ["Comedy", "Drama"],
+    "watch_url": "https://example.com/watch/kitchen-confidentials"
+  }
+]
